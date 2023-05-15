@@ -1,1 +1,3 @@
-# Research-on-target-detection-methods-combined-with-classification-and-localization-tasks
+上海大学本科毕业设计，上海市优秀毕业设计。
+
+基于TOOD的单阶段目标检测对齐问题研究和创新探索。
